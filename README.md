@@ -21,7 +21,7 @@ This is an example of how to list things you need to use the software and how to
 ### Installation
 1. Clone the repo
    ```sh
-   git clone https://github.com/trungvd-savvycom/rightpaw.git
+   git clone https://github.com/phuongnamsavvycom/analysis.git
    ```
 2. Install NPM packages
    ```sh
